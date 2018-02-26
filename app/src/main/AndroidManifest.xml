@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".EnterAddressActivity" />
+        <activity android:name=".EnterBirthActivity" />
+        <activity android:name=".DisplaySummaryActivity"></activity>
     </application>
 
 </manifest>
